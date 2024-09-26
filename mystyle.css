@@ -65,12 +65,13 @@
         background-color: #fff;
         border-radius: 8px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         padding: 20px;
         overflow: auto;
         display: flex;
-        
     }
+
+    
 
     .flex-container {
         background-color: #fff;
@@ -86,12 +87,15 @@
     .info-myself2 {
         padding-left: 0%;
         float: left;
+       
     }
 
 
     .info-myself2 ul{
         list-style-type: none;
         padding-left: 0%;
+        line-height: 2.0;
+        
     }
 
     .profile {
@@ -100,9 +104,18 @@
         width: 48%;
     }
 
+    .profile4 {
+        padding-left: 50%;
+        margin-left: 20px;
+        width: 50%;
+        height: auto;
+    }
+
     #vid1 {
         padding-left: 50%;
         margin-left: 20px;
         width: 48%;
         
     }
+
+    
